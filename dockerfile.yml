@@ -1,0 +1,3 @@
+FROM nginx:latest
+Maintainer Dheeraj
+EXPOSE 80
